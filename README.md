@@ -1,4 +1,4 @@
-# Cyber bullying detection using various machine learning algorithm
+# Cyber bullying detection using various machine learning algorithms
 
 ### About the project
 + The main aim of the project is to detect hate speech, derogatory comments and messages over the internet. 
@@ -16,6 +16,7 @@
 + Data analysis using Matplotlib and seaborn.
 + Pandas library
 + Building classification models in python, etc.
++ Using the dataset on colab that has been uploaded on google drive
 
 ### Challenges faced and conquered
 + Conversion of textual data into numerical data using vectorization.
